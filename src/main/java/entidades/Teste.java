@@ -1,5 +1,5 @@
 package entidades;
 
 public class Teste {
-    private String nome;
+    private Integer x;
 }
